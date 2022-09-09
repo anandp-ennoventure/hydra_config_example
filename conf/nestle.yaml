@@ -1,0 +1,9 @@
+defaults:
+  - config
+
+products_list: [
+  "nestle_product1",
+  "nestle_product2",
+  "nestle_product3",
+  "nestle_product4"
+]

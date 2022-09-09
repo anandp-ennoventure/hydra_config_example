@@ -1,0 +1,10 @@
+"res_msg_hd" : {
+    "0": {"msg":0, "heading":"Genuine"},
+    "1": {"msg":2, "heading":"Not Encoded"},
+    "2": {"msg":4, "heading":"Photo Quality not good"},
+    "3": {"msg":3, "heading":"Fake"}
+}
+
+products_list: []
+
+

@@ -1,0 +1,9 @@
+defaults:
+  - config
+
+products_list: [
+  "rb_product1",
+  "rb_product2",
+  "rb_product3",
+  "rb_product4"
+]
